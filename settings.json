@@ -1,7 +1,7 @@
 {
   "name": "somebody",
   "bot-account": {
-    "username": "somebody",
+    "username": "snuffy03",
     "password": "",
     "type": "offline"
   },
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": -373,
     "y": 100,
-    "z": 0
+    "z": 327
   },
   "utils": {
     "auto-auth": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
